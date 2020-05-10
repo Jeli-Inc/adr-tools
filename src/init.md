@@ -3,6 +3,7 @@
 ## Context and Problem Statement
 
 Decision-making is as critical as the end result of those decisions.
+
 We want to record architectural decisions made in this project.
 Which format and structure should these records follow?
 
