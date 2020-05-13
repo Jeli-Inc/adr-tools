@@ -2,9 +2,7 @@
 set -e
 eval "$($(dirname $0)/adr-config)"
 
-if [ -f .adr-dir ]
+if [ -f .adr-type ]
 then
-    cat .adr-dir
-else
-    echo doc/adr
+    cat .adr-type
 fi
